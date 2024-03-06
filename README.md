@@ -1,6 +1,6 @@
-# Visualization Studio HTML Framework
+# Visualization Gallery HTML Framework
 
-A lightwweight HTML/CSS framework for displaying diverse content in 360º wraparound mode in the Visualization Studio at the D.H. Hill Jr. Library.
+A lightwweight HTML/CSS framework for displaying diverse content in 360º wraparound mode in the Cyma Rubin Visualization Gallery at the D.H. Hill Jr. Library.
 
 Layouts are created based on grid system that divides the full display into equal-width zones. The default is a 12-zone grid. 8- and 10-zone grids are also available.
 
